@@ -12,7 +12,7 @@ const char* ssid = "Kaboom_2.4G";
 const char* password = "0406092549";
 
 // Use same flask server
-const char* serverAddress = "192.168.1.10";
+const char* serverAddress = "0.0.0.0";
 const int serverPort = 5565;
 
 // Do not edit
